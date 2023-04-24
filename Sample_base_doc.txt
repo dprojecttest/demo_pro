@@ -3,3 +3,5 @@ Hi .. First push to github from local ..
 Downloaded demo project and changes done in gerrit folder
 
 another change from developer to push to main account 
+
+git account commit changes to gerrit . 
