@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9e0467dd_51a7a3b1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1021057
+      },
+      "writtenOn": "2023-04-24T03:41:25Z",
+      "side": 1,
+      "message": "kindly accept the final change to commit .. ",
+      "revId": "24149dab677661e0218a2701f34fc8b2a453b039",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
