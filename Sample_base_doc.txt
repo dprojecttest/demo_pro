@@ -7,3 +7,5 @@ another change from developer to push to main account
 git account commit changes to gerrit . 
 
 git checking changes 
+
+rules checking and changes
