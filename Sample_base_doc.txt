@@ -9,3 +9,5 @@ git account commit changes to gerrit .
 git checking changes 
 
 rules checking and changes
+
+present changes 
